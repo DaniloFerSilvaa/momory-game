@@ -13,5 +13,4 @@ export const items = [
      {name: 'estrela', icon: estrelaSvg},
      {name: 'gasolina', icon: gasolinaSvg},
      {name: 'moto', icon: motoSvg},
-
 ]
